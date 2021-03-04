@@ -1,0 +1,1 @@
+Patente,Pedimento,SeccionAduanera,ClaveDocumento,FechaPago,PedimentoAnterior,PatenteAnterior,SeccionAduaneraAnterior,DocumentoAnterior,FechaOperacionAnterior,PedimentoOriginal,PatenteAduanalOrig,SeccionAduaneraDespOrig,FechaPagoReal

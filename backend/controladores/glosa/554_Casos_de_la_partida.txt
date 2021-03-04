@@ -1,0 +1,1 @@
+Patente,Pedimento,SeccionAduanera,Fraccion,SecuenciaFraccion,ClaveCaso,IdentificadorCaso,ComplementoCaso,FechaPagoReal

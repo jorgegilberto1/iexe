@@ -1,0 +1,1 @@
+Patente,Pedimento,SeccionAduanera,ClaveCaso,IdentificadorCaso,TipoPedimento,ComplementoCaso,FechaValidacionPagoR

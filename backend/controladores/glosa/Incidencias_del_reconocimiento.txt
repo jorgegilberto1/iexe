@@ -1,0 +1,1 @@
+Patente,Pedimento,SeccionAduanera,ConsecutivoRemesa,NumeroSeleccion,FechaInicioReconocimiento,HoraInicioReconocimiento,FechaFinReconocimiento,HoraFinReconocimiento,Fraccion,SecuenciaFraccion,ClaveDocumento,TipoOperacion,GradoIncidencia,FechaSeleccion

@@ -1,0 +1,1 @@
+Patente,Pedimento,SeccionAduanera,RfcTransportista,CurpTransportista,NombreTransportista,PaisTransporte,IdentificadorTransporte,FechaPagoReal

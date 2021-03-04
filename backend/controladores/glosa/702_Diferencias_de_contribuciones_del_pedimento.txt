@@ -1,0 +1,1 @@
+Patente,Pedimento,SeccionAduanera,ClaveContribucion,FormaPago,ImportePago,TipoPedimento,FechaPagoReal
