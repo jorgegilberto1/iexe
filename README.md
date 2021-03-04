@@ -4,7 +4,7 @@ prueba técnica iexe
 Aplicación web
 1. Un alumno puede agregar nuevos proyectos al sistema. Un proyecto se compone
 de los siguientes datos:
-  ● Nombre o descripción
+  <br>● Nombre o descripción
   ● Tecnologías usadas
   ● Asignatura para la que se desarrolló
   ● Fecha de inicio y fecha final
