@@ -5,10 +5,10 @@ Aplicación web
 1. Un alumno puede agregar nuevos proyectos al sistema. Un proyecto se compone
 de los siguientes datos:
   <br>● Nombre o descripción
-  ● Tecnologías usadas
-  ● Asignatura para la que se desarrolló
-  ● Fecha de inicio y fecha final
-  ● Listado de habilidades adquiridas al desarrollar el proyecto
+  <br>● Tecnologías usadas
+  <br>● Asignatura para la que se desarrolló
+  <br>● Fecha de inicio y fecha final
+  <br>● Listado de habilidades adquiridas al desarrollar el proyecto
 2. Un alumno puede ver el listado de proyectos en los que ha trabajado
 3. Un administrador puede ver o buscar en todos los alumnos y todos los proyectos
 
@@ -33,14 +33,14 @@ Tecnologías utilizadas
  
  
 ADMINISTRADOR:
-  ● Puede crear alumnos
-  ● Puede ver alumnos y los proyectos en los que esta inscrito
-  ● Puede ver la lista de alumnos
-  ● Puede ver proyectos y los detalles de cada uno
+  <br>● Puede crear alumnos
+  <br>● Puede ver alumnos y los proyectos en los que esta inscrito
+  <br>● Puede ver la lista de alumnos
+  <br>● Puede ver proyectos y los detalles de cada uno
   
 USUARIO:
-  ● Puede crear proyectos
-  ● puede ver los proyectos en los que esta incrito y los detalles de cada uno
+  <br>● Puede crear proyectos
+  <br>● puede ver los proyectos en los que esta incrito y los detalles de cada uno
  
  
  
